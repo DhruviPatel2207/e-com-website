@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "productId": 5,
+    "userId": 5,
+    "price": 20,
+    "total": 60,
+    "quantity": 3,
+    "discountPercentage": 8.71,
+    "discountedPrice": 55,
+    "reviewId": 27
+  },
+  {
+    "id": 2,
+    "productId": 30,
+    "userId": 16,
+    "price": 30,
+    "total": 60,
+    "quantity": 2,
+    "discountPercentage": 14.89,
+    "discountedPrice": 51,
+    "reviewId": 14
+  },
+  {
+    "id": 3,
+    "productId": 28,
+    "userId": 19,
+    "price": 50,
+    "total": 100,
+    "quantity": 2,
+    "discountPercentage": 12.05,
+    "discountedPrice": 88,
+    "reviewId": 2
+  },
+  {
+    "id": 4,
+    "productId": 7,
+    "userId": 24,
+    "price": 90,
+    "total": 90,
+    "quantity": 1,
+    "discountPercentage": 10.89,
+    "discountedPrice": 80,
+    "reviewId": 29
+  },
+  {
+    "id": 5,
+    "productId": 13,
+    "userId": 28,
+    "price": 14,
+    "total": 42,
+    "quantity": 3,
+    "discountPercentage": 8.04,
+    "discountedPrice": 39,
+    "reviewId": 28
+  },
+  {
+    "id": 6,
+    "productId": 23,
+    "userId": 6,
+    "price": 35,
+    "total": 105,
+    "quantity": 3,
+    "discountPercentage": 7.54,
+    "discountedPrice": 97,
+    "reviewId": 13
+  },
+  {
+    "id": 7,
+    "productId": 12,
+    "userId": 21,
+    "price": 120,
+    "total": 120,
+    "quantity": 1,
+    "discountPercentage": 7.14,
+    "discountedPrice": 111,
+    "reviewId": 18
+  },
+  {
+    "id": 8,
+    "productId": 27,
+    "userId": 27,
+    "price": 50,
+    "total": 50,
+    "quantity": 1,
+    "discountPercentage": 5.07,
+    "discountedPrice": 47,
+    "reviewId": 29
+  },
+  {
+    "id": 9,
+    "productId": 15,
+    "userId": 17,
+    "price": 57,
+    "total": 171,
+    "quantity": 3,
+    "discountPercentage": 11.19,
+    "discountedPrice": 152,
+    "reviewId": 10
+  },
+  {
+    "id": 10,
+    "productId": 15,
+    "userId": 19,
+    "price": 68,
+    "total": 68,
+    "quantity": 1,
+    "discountPercentage": 14.87,
+    "discountedPrice": 58,
+    "reviewId": 9
+  },
+  {
+    "id": 11,
+    "productId": 18,
+    "userId": 5,
+    "price": 46,
+    "total": 138,
+    "quantity": 3,
+    "discountPercentage": 14.65,
+    "discountedPrice": 118,
+    "reviewId": 12
+  },
+  {
+    "id": 12,
+    "productId": 30,
+    "userId": 16,
+    "price": 50,
+    "total": 100,
+    "quantity": 2,
+    "discountPercentage": 15.59,
+    "discountedPrice": 84,
+    "reviewId": 3
+  },
+  {
+    "id": 13,
+    "productId": 3,
+    "userId": 18,
+    "price": 19,
+    "total": 19,
+    "quantity": 1,
+    "discountPercentage": 10.1,
+    "discountedPrice": 17,
+    "reviewId": 4
+  },
+  {
+    "id": 14,
+    "productId": 20,
+    "userId": 30,
+    "price": 46,
+    "total": 92,
+    "quantity": 2,
+    "discountPercentage": 10.2,
+    "discountedPrice": 83,
+    "reviewId": 5
+  },
+  {
+    "id": 15,
+    "productId": 30,
+    "userId": 14,
+    "price": 280,
+    "total": 280,
+    "quantity": 1,
+    "discountPercentage": 17.91,
+    "discountedPrice": 230,
+    "reviewId": 13
+  },
+  {
+    "id": 16,
+    "productId": 20,
+    "userId": 21,
+    "price": 1249,
+    "total": 3747,
+    "quantity": 3,
+    "discountPercentage": 15.46,
+    "discountedPrice": 3168,
+    "reviewId": 5
+  },
+  {
+    "id": 17,
+    "productId": 14,
+    "userId": 4,
+    "price": 40,
+    "total": 120,
+    "quantity": 3,
+    "discountPercentage": 15.66,
+    "discountedPrice": 101,
+    "reviewId": 13
+  },
+  {
+    "id": 18,
+    "productId": 4,
+    "userId": 17,
+    "price": 14,
+    "total": 28,
+    "quantity": 2,
+    "discountPercentage": 8.04,
+    "discountedPrice": 26,
+    "reviewId": 16
+  },
+  {
+    "id": 19,
+    "productId": 24,
+    "userId": 9,
+    "price": 600,
+    "total": 1800,
+    "quantity": 3,
+    "discountPercentage": 15.55,
+    "discountedPrice": 1520,
+    "reviewId": 23
+  },
+  {
+    "id": 20,
+    "productId": 19,
+    "userId": 9,
+    "price": 35,
+    "total": 105,
+    "quantity": 3,
+    "discountPercentage": 3.23,
+    "discountedPrice": 102,
+    "reviewId": 10
+  }
+]

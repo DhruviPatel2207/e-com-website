@@ -1,0 +1,1292 @@
+{
+  "wishlist": [
+    {
+      "productId": 2,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "userId": 36,
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "productId": 2,
+      "userId": 34,
+      "price": 738,
+      "count": 1,
+      "id": 1
+    },
+    {
+      "productId": 4,
+      "userId": 34,
+      "price": 230,
+      "count": 1,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "productId": 1,
+          "discountedPrice": 478,
+          "quantity": 1,
+          "price": 549,
+          "discountPercentage": 12.96,
+          "total": 478
+        },
+        {
+          "productId": 2,
+          "discountedPrice": 738,
+          "quantity": 1,
+          "price": 899,
+          "discountPercentage": 17.94,
+          "total": 738
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "INDIA",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 1216,
+      "userId": 34,
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "productId": 1,
+          "discountedPrice": 478,
+          "quantity": 1,
+          "price": 549,
+          "discountPercentage": 12.96,
+          "total": 478
+        },
+        {
+          "productId": 2,
+          "discountedPrice": 738,
+          "quantity": 2,
+          "price": 899,
+          "discountPercentage": 17.94,
+          "total": 1476
+        },
+        {
+          "productId": 8,
+          "discountedPrice": 1346,
+          "quantity": 1,
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "total": 1346
+        },
+        {
+          "productId": 9,
+          "discountedPrice": 969,
+          "quantity": 1,
+          "price": 1099,
+          "discountPercentage": 11.83,
+          "total": 969
+        }
+      ],
+      "address": {
+        "firstName": "ankita",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/2, SIMANDHAR RESIDENCY, GULABTOWER ,JAMNAGAR",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 4269,
+      "userId": 34,
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "INDIA",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 34,
+      "userId": 34,
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        },
+        {
+          "productId": 1,
+          "discountedPrice": 478,
+          "quantity": 26,
+          "price": 549,
+          "discountPercentage": 12.96,
+          "total": 12428
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 12462,
+      "userId": 34,
+      "id": 4
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        },
+        {
+          "productId": 1,
+          "discountedPrice": 478,
+          "quantity": 27,
+          "price": 549,
+          "discountPercentage": 12.96,
+          "total": 12906
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 12940,
+      "userId": 34,
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        },
+        {
+          "productId": 2,
+          "discountedPrice": 738,
+          "quantity": 1,
+          "price": 899,
+          "discountPercentage": 17.94,
+          "total": 738
+        }
+      ],
+      "address": {
+        "firstName": "ed",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 772,
+      "userId": 34,
+      "id": 6
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        },
+        {
+          "productId": 2,
+          "discountedPrice": 738,
+          "quantity": 1,
+          "price": 899,
+          "discountPercentage": 17.94,
+          "total": 738
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "INDIA",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 772,
+      "userId": 34,
+      "id": 7
+    },
+    {
+      "items": [
+        {
+          "productId": 26,
+          "discountedPrice": 34,
+          "quantity": 1,
+          "price": 41,
+          "discountPercentage": 17.86,
+          "total": 34
+        },
+        {
+          "productId": 2,
+          "discountedPrice": 738,
+          "quantity": 1,
+          "price": 899,
+          "discountPercentage": 17.94,
+          "total": 738
+        },
+        {
+          "productId": 6,
+          "discountedPrice": 1556,
+          "quantity": 1,
+          "price": 1749,
+          "discountPercentage": 11.02,
+          "total": 1556
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "INDIA",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 2328,
+      "userId": 34,
+      "id": 8
+    },
+    {
+      "items": [
+        {
+          "productId": 3,
+          "discountedPrice": 1056,
+          "quantity": 1,
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "total": 1056
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 1056,
+      "userId": 34,
+      "id": 9
+    },
+    {
+      "items": [
+        {
+          "productId": 36,
+          "discountedPrice": 160,
+          "quantity": 1,
+          "price": "200",
+          "discountPercentage": "20",
+          "total": 160
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "INDIA",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 160,
+      "userId": 34,
+      "id": 10
+    },
+    {
+      "items": [
+        {
+          "productId": 36,
+          "discountedPrice": 160,
+          "quantity": 2,
+          "price": "200",
+          "discountPercentage": "20",
+          "total": 320
+        }
+      ],
+      "address": {
+        "firstName": "dhruvi",
+        "lastName": "patel",
+        "companyName": "heh",
+        "country": "U.S",
+        "streetAddress": "A/3, SIMANDHAR RESIDENCY, GULABTOWER , NR, UTOPIA SCHOOL",
+        "town": "THALTEJ,AHMEDABAD",
+        "postCode": "3800054",
+        "phone": "9016103747",
+        "email": "drp@gmail.com"
+      },
+      "finalTotal": 320,
+      "userId": 34,
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "userId": 2
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "userId": 3
+    },
+    {
+      "id": 9,
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "userId": 2
+    },
+    {
+      "id": 10,
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "userId": 2
+    },
+    {
+      "id": 11,
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "userId": 2
+    },
+    {
+      "id": 12,
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "fragrances",
+      "userId": 3
+    },
+    {
+      "id": 14,
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "category": "fragrances",
+      "userId": 3
+    },
+    {
+      "id": 15,
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "fragrances",
+      "userId": 2
+    },
+    {
+      "id": 17,
+      "title": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Hemani Tea",
+      "category": "skincare",
+      "userId": 2
+    },
+    {
+      "id": 18,
+      "title": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Dermive",
+      "category": "skincare",
+      "userId": 2
+    },
+    {
+      "id": 19,
+      "title": "Skin Beauty Serum.",
+      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "ROREC White Rice",
+      "category": "skincare",
+      "userId": 3
+    },
+    {
+      "id": 22,
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Bake Parlor Big",
+      "category": "groceries",
+      "userId": 2
+    },
+    {
+      "id": 24,
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "fauji",
+      "category": "groceries",
+      "userId": 3
+    },
+    {
+      "id": 26,
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Boho Decor",
+      "category": "home-decoration",
+      "userId": 3
+    },
+    {
+      "id": 27,
+      "title": "Flying Wooden Bird",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Flying Wooden",
+      "category": "home-decoration",
+      "userId": 2
+    },
+    {
+      "id": 28,
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "LED Lights",
+      "category": "home-decoration",
+      "userId": 2
+    },
+    {
+      "id": 29,
+      "title": "Handcraft Chinese style",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "luxury palace",
+      "category": "home-decoration",
+      "userId": 2
+    },
+    {
+      "id": 30,
+      "title": "Key Holder",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Golden",
+      "category": "home-decoration",
+      "userId": 2
+    },
+    {
+      "title": "perfume ",
+      "description": "This is used for TM Projects",
+      "price": "300",
+      "discountPercentage": "12",
+      "rating": "4.5",
+      "stock": "10",
+      "brand": "apple",
+      "category": "smartphone",
+      "userId": 2,
+      "id": 37
+    },
+    {
+      "title": "title 3",
+      "description": "This is used for TM Projects",
+      "price": "02",
+      "discountPercentage": 0,
+      "rating": "03",
+      "stock": "033",
+      "brand": "ewr",
+      "category": "smartphone",
+      "userId": 1,
+      "id": 40
+    },
+    {
+      "title": "title 3",
+      "description": "This is used for TM Projects",
+      "price": "02",
+      "discountPercentage": 0,
+      "rating": "03",
+      "stock": "033",
+      "brand": "ewr",
+      "category": "smartphone",
+      "userId": 1,
+      "id": 41
+    },
+    {
+      "title": "title 3",
+      "description": "This is used for TM Projects",
+      "price": "02",
+      "discountPercentage": 0,
+      "rating": "03",
+      "stock": "033",
+      "brand": "ewr",
+      "category": "smartphone",
+      "userId": 1,
+      "id": 42
+    }
+  ],
+  "review": [
+    {
+      "id": 2,
+      "comment": "What terrific math skills you’re showing!",
+      "productId": 17,
+      "userId": 11,
+      "star": 0
+    },
+    {
+      "id": 3,
+      "comment": "You are an amazing writer!",
+      "productId": 2,
+      "userId": 12,
+      "star": 3
+    },
+    {
+      "id": 5,
+      "comment": "Nice idea!",
+      "productId": 9,
+      "userId": 12,
+      "star": 0
+    },
+    {
+      "id": 7,
+      "comment": "This is clear, concise, and complete!",
+      "productId": 22,
+      "userId": 24,
+      "star": 5
+    },
+    {
+      "id": 9,
+      "comment": "I knew you could do it!",
+      "productId": 7,
+      "userId": 19,
+      "star": 5
+    },
+    {
+      "id": 11,
+      "comment": "It was a pleasure to grade this!",
+      "productId": 30,
+      "userId": 23,
+      "star": 0
+    },
+    {
+      "id": 15,
+      "comment": "You’ve shown so much growth!",
+      "productId": 28,
+      "userId": 6,
+      "star": 1
+    },
+    {
+      "id": 16,
+      "comment": "Interesting thoughts!",
+      "productId": 4,
+      "userId": 7,
+      "star": 1
+    },
+    {
+      "id": 19,
+      "comment": "First-rate work!",
+      "productId": 17,
+      "userId": 12,
+      "star": 4
+    },
+    {
+      "id": 20,
+      "comment": "This is fascinating information!",
+      "productId": 30,
+      "userId": 28,
+      "star": 4
+    },
+    {
+      "id": 21,
+      "comment": "You inspire me!",
+      "productId": 18,
+      "userId": 30,
+      "star": 5
+    },
+    {
+      "id": 23,
+      "comment": "What an astounding observation!",
+      "productId": 17,
+      "userId": 11,
+      "star": 3
+    },
+    {
+      "id": 25,
+      "comment": "I can tell you’ve been practicing!",
+      "productId": 10,
+      "userId": 9,
+      "star": 4
+    },
+    {
+      "id": 26,
+      "comment": "You’ve come a long way!",
+      "productId": 22,
+      "userId": 24,
+      "star": 0
+    },
+    {
+      "id": 27,
+      "comment": "I can tell you’ve been paying attention!",
+      "productId": 30,
+      "userId": 30,
+      "star": 0
+    },
+    {
+      "id": 28,
+      "comment": "Reading this made my day!",
+      "productId": 28,
+      "userId": 6,
+      "star": 3
+    },
+    {
+      "id": 30,
+      "comment": "What an accomplishment!",
+      "productId": 10,
+      "userId": 15,
+      "star": 3
+    },
+    {
+      "comment": "good",
+      "star": 0,
+      "userId": 34,
+      "productId": 2,
+      "id": 32
+    },
+    {
+      "comment": "good",
+      "star": 0,
+      "userId": 34,
+      "productId": 9,
+      "id": 33
+    },
+    {
+      "comment": "good",
+      "star": 0,
+      "userId": 34,
+      "productId": 26,
+      "id": 35
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Terry",
+      "lastName": "Medhurst",
+      "age": 50,
+      "gender": "male",
+      "email": "seller@seller.com",
+      "phone": "+63 791 675 8914",
+      "username": "seller",
+      "password": "Terry@123",
+      "birthDate": "2000-12-25",
+      "role": "seller"
+    },
+    {
+      "id": 2,
+      "firstName": "Sheldon",
+      "lastName": "Quigley",
+      "age": 28,
+      "gender": "male",
+      "email": "hbingley1@plala.or.jp",
+      "phone": "+7 813 117 7139",
+      "username": "hbingley1",
+      "password": "Sheldon@123",
+      "birthDate": "2003-08-02",
+      "role": "seller"
+    },
+    {
+      "id": 3,
+      "firstName": "Terrill",
+      "lastName": "Hills",
+      "age": 38,
+      "gender": "male",
+      "email": "rshawe2@51.la",
+      "phone": "+63 739 292 7942",
+      "username": "rshawe2",
+      "password": "Terrill@123",
+      "birthDate": "1992-12-30",
+      "role": "seller"
+    },
+    {
+      "id": 4,
+      "firstName": "Miles",
+      "lastName": "Cummerata",
+      "age": 49,
+      "gender": "male",
+      "email": "buyer@buyer.com",
+      "phone": "+86 461 145 4186",
+      "username": "buyer",
+      "password": "Miles@123",
+      "birthDate": "1969-01-16",
+      "role": "buyer"
+    },
+    {
+      "id": 5,
+      "firstName": "Mavis",
+      "lastName": "Schultz",
+      "age": 38,
+      "gender": "male",
+      "email": "kmeus4@upenn.edu",
+      "phone": "+372 285 771 1911",
+      "username": "kmeus4",
+      "password": "Mavis@123",
+      "birthDate": "1968-11-03",
+      "role": "buyer"
+    },
+    {
+      "id": 6,
+      "firstName": "Alison",
+      "lastName": "Reichert",
+      "age": 21,
+      "gender": "female",
+      "email": "jtreleven5@nhs.uk",
+      "phone": "+351 527 735 3642",
+      "username": "jtreleven5",
+      "password": "Alison@123",
+      "birthDate": "1969-07-21",
+      "role": "buyer"
+    },
+    {
+      "id": 7,
+      "firstName": "Oleta",
+      "lastName": "Abbott",
+      "age": 31,
+      "gender": "female",
+      "email": "dpettegre6@columbia.edu",
+      "phone": "+62 640 802 7111",
+      "username": "dpettegre6",
+      "password": "Oleta@123",
+      "birthDate": "1982-02-21",
+      "role": "buyer"
+    },
+    {
+      "id": 8,
+      "firstName": "Ewell",
+      "lastName": "Mueller",
+      "age": 29,
+      "gender": "male",
+      "email": "ggude7@chron.com",
+      "phone": "+86 946 297 2275",
+      "username": "ggude7",
+      "password": "Ewell@123",
+      "birthDate": "1964-08-24",
+      "role": "buyer"
+    },
+    {
+      "id": 9,
+      "firstName": "Demetrius",
+      "lastName": "Corkery",
+      "age": 22,
+      "gender": "male",
+      "email": "nloiterton8@aol.com",
+      "phone": "+86 356 590 9727",
+      "username": "nloiterton8",
+      "password": "Demetrius@123",
+      "birthDate": "1971-03-11",
+      "role": "buyer"
+    },
+    {
+      "id": 10,
+      "firstName": "Eleanora",
+      "lastName": "Price",
+      "age": 37,
+      "gender": "female",
+      "email": "umcgourty9@jalbum.net",
+      "phone": "+60 184 408 0824",
+      "username": "umcgourty9",
+      "password": "Eleanora@123",
+      "birthDate": "1958-08-11",
+      "role": "buyer"
+    },
+    {
+      "id": 11,
+      "firstName": "Marcel",
+      "lastName": "Jones",
+      "age": 39,
+      "gender": "male",
+      "email": "acharlota@liveinternet.ru",
+      "phone": "+967 253 210 0344",
+      "username": "acharlota",
+      "password": "Marcel@123",
+      "birthDate": "1961-09-12",
+      "role": "buyer"
+    },
+    {
+      "id": 12,
+      "firstName": "Assunta",
+      "lastName": "Rath",
+      "age": 42,
+      "gender": "female",
+      "email": "rhallawellb@dropbox.com",
+      "phone": "+380 962 542 6549",
+      "username": "rhallawellb",
+      "password": "Assunta@123",
+      "birthDate": "1990-12-14",
+      "role": "buyer"
+    },
+    {
+      "id": 13,
+      "firstName": "Trace",
+      "lastName": "Douglas",
+      "age": 26,
+      "gender": "male",
+      "email": "lgribbinc@posterous.com",
+      "phone": "+1 609 937 3468",
+      "username": "lgribbinc",
+      "password": "Trace@123",
+      "birthDate": "1967-07-23",
+      "role": "buyer"
+    },
+    {
+      "id": 14,
+      "firstName": "Enoch",
+      "lastName": "Lynch",
+      "age": 21,
+      "gender": "male",
+      "email": "mturleyd@tumblr.com",
+      "phone": "+94 912 100 5118",
+      "username": "mturleyd",
+      "password": "Enoch@123",
+      "birthDate": "1979-08-25",
+      "role": "buyer"
+    },
+    {
+      "id": 15,
+      "firstName": "Jeanne",
+      "lastName": "Halvorson",
+      "age": 26,
+      "gender": "female",
+      "email": "kminchelle@qq.com",
+      "phone": "+86 581 108 7855",
+      "username": "kminchelle",
+      "password": "Jeanne@123",
+      "birthDate": "1996-02-02",
+      "role": "buyer"
+    },
+    {
+      "id": 16,
+      "firstName": "Trycia",
+      "lastName": "Fadel",
+      "age": 41,
+      "gender": "female",
+      "email": "dpierrof@vimeo.com",
+      "phone": "+420 833 708 0340",
+      "username": "dpierrof",
+      "password": "Trycia@123",
+      "birthDate": "1963-07-03",
+      "role": "buyer"
+    },
+    {
+      "id": 17,
+      "firstName": "Bradford",
+      "lastName": "Prohaska",
+      "age": 43,
+      "gender": "male",
+      "email": "vcholdcroftg@ucoz.com",
+      "phone": "+420 874 628 3710",
+      "username": "vcholdcroftg",
+      "password": "Bradford@123",
+      "birthDate": "1975-10-20",
+      "role": "buyer"
+    },
+    {
+      "id": 18,
+      "firstName": "Arely",
+      "lastName": "Skiles",
+      "age": 42,
+      "gender": "male",
+      "email": "sberminghamh@chron.com",
+      "phone": "+55 886 766 8617",
+      "username": "sberminghamh",
+      "password": "Arely@123",
+      "birthDate": "1958-02-05",
+      "role": "buyer"
+    },
+    {
+      "id": 19,
+      "firstName": "Gust",
+      "lastName": "Purdy",
+      "age": 46,
+      "gender": "male",
+      "email": "bleveragei@so-net.ne.jp",
+      "phone": "+86 886 889 0258",
+      "username": "bleveragei",
+      "password": "Gust@123",
+      "birthDate": "1989-10-15",
+      "role": "buyer"
+    },
+    {
+      "id": 20,
+      "firstName": "Lenna",
+      "lastName": "Renner",
+      "age": 41,
+      "gender": "female",
+      "email": "aeatockj@psu.edu",
+      "phone": "+1 904 601 7177",
+      "username": "aeatockj",
+      "password": "Lenna@123",
+      "birthDate": "1980-01-19",
+      "role": "buyer"
+    },
+    {
+      "id": 21,
+      "firstName": "Doyle",
+      "lastName": "Ernser",
+      "age": 23,
+      "gender": "male",
+      "email": "ckensleyk@pen.io",
+      "phone": "+86 634 419 6839",
+      "username": "ckensleyk",
+      "password": "Doyle@123",
+      "birthDate": "1983-01-22",
+      "role": "buyer"
+    },
+    {
+      "id": 22,
+      "firstName": "Tressa",
+      "lastName": "Weber",
+      "age": 41,
+      "gender": "female",
+      "email": "froachel@howstuffworks.com",
+      "phone": "+34 517 104 6248",
+      "username": "froachel",
+      "password": "Tressa@123",
+      "birthDate": "1987-11-11",
+      "role": "buyer"
+    },
+    {
+      "id": 23,
+      "firstName": "Felicity",
+      "lastName": "O'Reilly",
+      "age": 46,
+      "gender": "female",
+      "email": "beykelhofm@wikispaces.com",
+      "phone": "+63 919 564 1690",
+      "username": "beykelhofm",
+      "password": "Felicity@123",
+      "birthDate": "1967-10-05",
+      "role": "buyer"
+    },
+    {
+      "id": 24,
+      "firstName": "Jocelyn",
+      "lastName": "Schuster",
+      "age": 19,
+      "gender": "male",
+      "email": "brickeardn@fema.gov",
+      "phone": "+7 968 462 1292",
+      "username": "brickeardn",
+      "password": "Jocelyn@123",
+      "birthDate": "1966-06-02",
+      "role": "buyer"
+    },
+    {
+      "id": 25,
+      "firstName": "Edwina",
+      "lastName": "Ernser",
+      "age": 21,
+      "gender": "female",
+      "email": "dfundello@amazon.co.jp",
+      "phone": "+86 376 986 8945",
+      "username": "dfundello",
+      "password": "Edwina@123",
+      "birthDate": "2000-09-28",
+      "role": "buyer"
+    },
+    {
+      "id": 26,
+      "firstName": "Griffin",
+      "lastName": "Braun",
+      "age": 35,
+      "gender": "male",
+      "email": "lgronaverp@cornell.edu",
+      "phone": "+62 511 790 0161",
+      "username": "lgronaverp",
+      "password": "Griffin@123",
+      "birthDate": "1965-09-06",
+      "role": "buyer"
+    },
+    {
+      "id": 27,
+      "firstName": "Piper",
+      "lastName": "Schowalter",
+      "age": 47,
+      "gender": "female",
+      "email": "fokillq@amazon.co.jp",
+      "phone": "+60 785 960 7918",
+      "username": "fokillq",
+      "password": "Piper@123",
+      "birthDate": "1983-06-07",
+      "role": "buyer"
+    },
+    {
+      "id": 28,
+      "firstName": "Kody",
+      "lastName": "Terry",
+      "age": 28,
+      "gender": "male",
+      "email": "xisherwoodr@ask.com",
+      "phone": "+81 859 545 8951",
+      "username": "xisherwoodr",
+      "password": "Kody@123",
+      "birthDate": "1979-01-09",
+      "role": "buyer"
+    },
+    {
+      "id": 29,
+      "firstName": "Macy",
+      "lastName": "Greenfelder",
+      "age": 45,
+      "gender": "female",
+      "email": "jissetts@hostgator.com",
+      "phone": "+81 915 649 2384",
+      "username": "jissetts",
+      "password": "Macy@123",
+      "birthDate": "1976-09-07",
+      "role": "buyer"
+    },
+    {
+      "id": 30,
+      "firstName": "Maurine",
+      "lastName": "Stracke",
+      "age": 31,
+      "gender": "female",
+      "email": "kdulyt@umich.edu",
+      "phone": "+48 143 590 6847",
+      "username": "kdulyt",
+      "password": "Maurine@123",
+      "birthDate": "1964-12-18",
+      "role": "buyer"
+    },
+    {
+      "firstname": "dhruvi",
+      "secondname": "patel",
+      "username": "seller3",
+      "email": "dhruvi2207@gmail.com",
+      "password": "Terry@123",
+      "confirm password": "Terry@123",
+      "age": "22",
+      "phone": "9016102805",
+      "role": "buyer",
+      "gender": "female",
+      "birthdate": "20/12/2023",
+      "id": 33
+    },
+    {
+      "firstName": "dhruvi",
+      "lastName": "patel",
+      "username": "dhruvip2207",
+      "email": "drp@gmail.com",
+      "password": "Dhruvi2207@",
+      "confirm password": "Dhruvi2207@",
+      "age": "22",
+      "phone": "9016103747",
+      "role": "buyer",
+      "gender": "female",
+      "birthdate": "26/12/2023",
+      "id": 34
+    },
+    {
+      "firstName": "dhruvi",
+      "lastName": "patel",
+      "username": "dhruvip22",
+      "email": "dhruvip2207@gmail.com",
+      "password": "Dhruvi2207@",
+      "confirm password": "Dhruvi2207@",
+      "age": "22",
+      "phone": "9016102805",
+      "role": "buyer",
+      "gender": "female",
+      "birthdate": "19/12/2023",
+      "id": 35
+    },
+    {
+      "firstName": "dhruvi",
+      "lastName": "patel",
+      "username": "seller1",
+      "email": "drp@gmail.comm",
+      "password": "Dhruvi2207@",
+      "confirm password": "Dhruvi2207@",
+      "age": "22",
+      "phone": "9016103747",
+      "role": "buyer",
+      "gender": "male",
+      "birthdate": "21/12/2023",
+      "id": 36
+    },
+    {
+      "firstName": "dhruvi",
+      "lastName": "patel",
+      "username": "drp",
+      "email": "drp@gmail.co",
+      "password": "Dhruvi2207@",
+      "confirm password": "Dhruvi2207@",
+      "age": "22",
+      "phone": "9016103747",
+      "role": "buyer",
+      "gender": "male",
+      "birthdate": "31/12/2023",
+      "id": 37
+    }
+  ]
+}

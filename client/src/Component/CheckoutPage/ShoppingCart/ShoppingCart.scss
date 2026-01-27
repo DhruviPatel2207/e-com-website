@@ -1,0 +1,23 @@
+.cart-items-container {
+  display: flex;
+  gap: 1rem;
+  .items-data-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex-grow: 1;
+    .ticket-amount {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+  }
+  .total-of-product {
+    display: flex;
+    flex-direction: column;
+  }
+}
+.confirm-total {
+  display: flex;
+  justify-content: space-between;
+}

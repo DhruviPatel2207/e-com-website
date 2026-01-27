@@ -1,0 +1,30 @@
+.addToCartData-wrapper {
+  display: flex;
+  flex-direction: column;
+  .img-cartData {
+    display: flex;
+    gap: 20px;
+    img {
+      width: 7rem !important;
+      height: 7rem !important;
+    }
+    .cart-data {
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+      .ticket-amount {
+        display: flex;
+        gap: 0.8rem;
+        align-items: center;
+        .number {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+  .finalTotal-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

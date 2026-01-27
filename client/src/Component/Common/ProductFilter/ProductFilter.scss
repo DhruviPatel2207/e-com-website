@@ -1,0 +1,26 @@
+.filter-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  @media only screen and (max-width: 768px) {
+    .filters-flex {
+      display: flex;
+      gap: 1rem;
+      div {
+        flex-grow: 1;
+      }
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    gap: 10px;
+  }
+}
+.wishlistNotification {
+  .ant-notification-notice-content {
+    .ant-notification-notice-with-icon {
+      > div {
+        margin-left: 5rem !important;
+      }
+    }
+  }
+}

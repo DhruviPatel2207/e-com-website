@@ -1,0 +1,15 @@
+.loginPage-container {
+  width: 500px;
+
+  padding: 20px;
+  border-radius: 20px;
+  margin: auto;
+  transform: translate(0px, 50%);
+  h2 {
+    margin-bottom: 20px;
+  }
+}
+.ant-form {
+  display: flex;
+  flex-direction: column;
+}

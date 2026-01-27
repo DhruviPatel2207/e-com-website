@@ -1,0 +1,50 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "server": "yarn workspace @ecom/server run dev",
+    "client": "yarn workspace @ecom/client run dev",
+    "start": "concurrently --kill-others-on-fail \"yarn run server\"  \"yarn run client\"",
+    "build:server": "yarn workspace @ecom/server run build",
+    "build:client": "yarn workspace @ecom/client run build",
+    "build": "concurrently --kill-others-on-fail  \"yarn run build:client\"",
+    "serve:server": "yarn workspace @ecom/server run serve",
+    "serve:client": "yarn workspace @ecom/client run serve",
+    "lint:client": "yarn workspace @ecom/client run lint",
+    "lint:server": "yarn workspace @ecom/client run lint",
+    "serve": "concurrently --kill-others-on-fail \"yarn run serve:server\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.1",
+    "eslint": "^8.0.3",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-perfectionist": "^2.2.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
+    "prettier": "^3.0.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "client/**/*.{js,jsx,html,css,scss}": [
+      "prettier --write",
+      "yarn lint:client"
+    ]
+  }
+}

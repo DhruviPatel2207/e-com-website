@@ -1,0 +1,15 @@
+{
+  "name": "@ecom/server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/dist/server.js",
+  "scripts": {
+    "dev": "json-server --watch ./dist/db.json --port 5000 --host 0.0.0.0",
+    "serve": "json-server --watch ./dist/db.json --port 5000"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "*"
+  }
+}

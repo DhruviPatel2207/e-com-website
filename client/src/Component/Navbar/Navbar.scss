@@ -1,0 +1,21 @@
+img {
+  height: 50px;
+  width: 80px;
+  @media only screen and (max-width: 576px) {
+    width: 42px;
+  }
+}
+.rightside-navbar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.titleOfDrawer {
+  text-align: center;
+}
+
+@media only screen and (max-width: 576px) {
+  .navbar-wrapper {
+    padding: 0px 10px;
+  }
+}
