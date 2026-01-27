@@ -2,7 +2,11 @@
   command = "npm run build"
   publish = "client/build"
 
+[build.environment]
+  DISABLE_ESLINT_PLUGIN = "true"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
