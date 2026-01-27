@@ -1,20 +1,35 @@
-###Task to be done
 
-feature
--- auth
------ can signup as buyer or seller
--- SELLER
------- List all of their products
------- edit their products
------- add new product
------- select multiple products and add sale discount
------- can delete reviews on there products
--- BUYER
------- can see all products
------- filter them by category, price
------- sort product by name, price, category
------- can buy product
--- COMMON
------- own Profile page
------- list other users
------- other users profile where they can check what they have bought and and what they have reviewwd
+# E-Commerce Website
+
+This is a frontend E-commerce web application developed using modern web technologies.  
+The project demonstrates core features of an online shopping platform, including product listing, user interaction.
+
+## 🚀 Features
+
+- User-friendly UI
+- Product listing and details
+- Add to cart functionality
+- Client–Server architecture
+- Responsive design
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools & Libraries
+- npm / yarn
+- Concurrently
+
+Install dependencies
+yarn install 
+
+Run the Project
+yarn start
+
+Client runs on: http://localhost:3000
+
+Server runs on: http://localhost:5000 (or configured port)
