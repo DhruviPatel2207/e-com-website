@@ -22,6 +22,7 @@
     "serve": "concurrently --kill-others-on-fail \"yarn run serve:server\""
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/plugin-syntax-flow": "^7.28.6",
     "@babel/plugin-transform-react-jsx": "^7.28.6",
     "concurrently": "^8.2.1",
@@ -48,5 +49,6 @@
       "prettier --write",
       "yarn lint:client"
     ]
-  }
+  },
+  "dependencies": {}
 }
